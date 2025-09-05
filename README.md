@@ -8,10 +8,7 @@
 
 ## ✨ Sobre o Dudu
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-  
 - 💖 **Nome:** Eduardo / Dudu  
 - 📚 **Coisas Favoritas:** Jogos, música, línguas, estudar,   
 - 💻 **Hobbies:** Desenvolver para Web, criar bancos de dados e muitas outras coisas  
