@@ -23,7 +23,7 @@
 ## 🧠 Conhecimentos
 
 <div align="center">
-  <img height="160px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBrbnB4Z3gwdjVqNWczNWY0dTc1M2R5dHh4d2Y1Y3Rtb3V1NjVwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11BbGyhVmk4iLS/giphy.gif">
+  <img height="160px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Jqa2tqYjY2ZGdpOHZsZG5zeGJ1dHQzdnVmeXUxYWw1ajgwODVvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jJxaUysjzO9ri/giphy.gif">
 </div>
 
 <p align="left">
