@@ -48,7 +48,7 @@ Tenho conhecimentos em:
 <p align="center">Gostou? Me chama! 😄</p>
 
 <p align="center">
-  <a href="eduardob.ciqueira@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/?ogbl#inbox">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href=https://www.linkedin.com/in/eduardo-braga-a6a62b244/">
