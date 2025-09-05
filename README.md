@@ -1,7 +1,4 @@
-<h1 align="center">~ 𝓞𝓲𝓮𝓮! 𝓔𝓾 𝓼𝓸𝓾 𝓪 𝓕𝓮𝓻𝓷𝓪𝓷𝓭𝓪 𝓐𝓵𝓿𝓮𝓼 ~</h1>
-
-<p align="center">愛は最も歪んだ呪いである</p>
-
+<h1 align="center">~ 𝕾𝖆𝖑𝖛𝖊, 𝖒𝖊𝖚 𝖓𝖔𝖒𝖊 é 𝕭𝖗𝖆𝖌𝖆 ~</h1>
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BragaDudu&show_icons=true&theme=dracula" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BragaDudu&layout=compact&langs_count=16&theme=dracula"/>
@@ -16,9 +13,9 @@
 
   
 - 💖 **Nome:** Eduardo / Dudu  
-- 📚 **Coisas Favoritas:** Jogos, livros, música, línguas, estudar, desenhar  
+- 📚 **Coisas Favoritas:** Jogos, música, línguas, estudar,   
 - 💻 **Hobbies:** Desenvolver para Web, criar bancos de dados e muitas outras coisas  
-- 🎓 **Trabalho:** Estudante do Ensino Médio e monitora de alunos
+- 🎓 **Trabalho:** Estudante do Ensino Médio e empreendedor 
 </div>
 
 ---
@@ -42,7 +39,7 @@ Tenho conhecimentos em:
 
 <br><br>
 
-🌱 Atualmente estou aprendendo: **Python**, **Node.js** e **Java**
+🌱 Atualmente estou aprendendo: **JavaScript**, **HTML** e **CSS**
 
 ---
 
