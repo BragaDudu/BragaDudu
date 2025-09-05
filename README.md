@@ -48,10 +48,10 @@ Tenho conhecimentos em:
 <p align="center">Gostou? Me chama! 😄</p>
 
 <p align="center">
-  <a href="mailto:ffalves454@gmail.com">
+  <a href="eduardob.ciqueira@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/fefer-ferfer-1b3439298/">
+  <a href=https://www.linkedin.com/in/eduardo-braga-a6a62b244/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
