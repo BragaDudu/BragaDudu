@@ -1,6 +1,6 @@
 <h1 align="center">~ 𝓢𝓪𝓵𝓿𝓮, 𝓶𝓮𝓾 𝓷𝓸𝓶𝓮 é 𝓑𝓻𝓪𝓰𝓪 ~</h1>
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BragaDudu&show_icons=true&theme=dracula" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BragaDudu&show_icons=true&theme=transparent" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BragaDudu&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
