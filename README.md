@@ -24,6 +24,7 @@ Sou estudante do Ensino Médio com curso técnico em Análise e Desenvolvimento 
 Tenho conhecimentos em:
 
 </p>
+<p align="center">
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
@@ -33,8 +34,8 @@ Tenho conhecimentos em:
 <img src="https://img.shields.io/badge/express-FFFFFF?logo=express&logoColor=black&style=for-the-badge"/>
 <img src ="https://img.shields.io/badge/prisma-5A67D8?logo=prisma&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>`
-
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 <br><br>
 
