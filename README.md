@@ -19,7 +19,7 @@
   <img height="160px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Jqa2tqYjY2ZGdpOHZsZG5zeGJ1dHQzdnVmeXUxYWw1ajgwODVvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jJxaUysjzO9ri/giphy.gif">
 </div>
 
-<p align="left">
+<p align="center">
 Sou estudante do Ensino Médio com curso técnico em Análise e Desenvolvimento de Sistemas.  
 Tenho conhecimentos em:
 
@@ -38,9 +38,8 @@ Tenho conhecimentos em:
 
 <br><br>
 
-<div align="center">
 🌱 Atualmente estou aprendendo: **HTML**, **CSS**, **JAVASCRIPT**, **TYPESCRIPT**, **REACT**, **NODE.JS**, **EXPRESS** e **PRISMA**
-<div/> 
+
 ---
 
 ## 📬 Contatos
