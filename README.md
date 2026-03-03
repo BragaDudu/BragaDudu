@@ -27,13 +27,20 @@ Tenho conhecimentos em:
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+<img src="https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge"/> 
+<img src="https://img.shields.io/badge/nodejs-3C873A?logo=node.js&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/express-FFFFFF?logo=express&logoColor=black&style=for-the-badge"/>
+<img src ="https://img.shields.io/badge/prisma-5A67D8?logo=prisma&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>`
+
 
 <br><br>
 
-🌱 Atualmente estou aprendendo: **JavaScript**, **HTML** e **CSS**
-
+<div align="center">
+🌱 Atualmente estou aprendendo: **HTML**, **CSS**, **JAVASCRIPT**, **TYPESCRIPT**, **REACT**, **NODE.JS**, **EXPRESS** e **PRISMA**
+<div/> 
 ---
 
 ## 📬 Contatos
